@@ -1,0 +1,2 @@
+#Write a script thats helps analyzing the output of sar -q command. This script shall print one, four, five and six of every output line. On the first line of the output, it should print a header line. Make sure all others lines are filtered out.
+
